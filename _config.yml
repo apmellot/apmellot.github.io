@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Apolline Mellot"
 title_separator          : "-"
 name                     : &name "Apolline Mellot"
-description              : &description "PhD candidate at INRIA Saclay - Université Paris-Saclay"
+description              : &description "PhD candidate at Inria Saclay - Université Paris-Saclay"
 url                      : https://apmellot.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "apmellot/apmellot.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Apolline Mellot"
   avatar           : "profile.png"
-  bio              : "PhD candidate at INRIA Saclay - Université Paris-Saclay"
+  bio              : "PhD candidate at Inria Saclay - Université Paris-Saclay"
   location         : "Palaiseau, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

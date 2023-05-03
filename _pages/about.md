@@ -8,8 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal website !
-
-Title
-======
-Things to say. Link example [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb).
+I am a PhD candidate in the [MIND](https://team.inria.fr/mind/) team at [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre) under the supervision of [Alexandre Gramfort](https://alexandre.gramfort.net/) and [Denis Engemann](https://denis-engemann.de/). The subject of the PhD thesis I am preparing is to leverage machine learning domain adaptation for enhancing the measure of brain health with magnetoencephalography (MEG) and electroencephalography (EEG) signals. 

@@ -8,3 +8,5 @@ venue: 'Birmingham, United Kingdom'
 ---
 
 The goal of this challenge was to classify individual Magneto-Encephalography (MEG) recordings into one of three classes: healthy, mild cognitive impairment (MCI), and dementia. MEG data from the train and test set were recorded at two different sites with the same 160-channel gradiometer MEG system but with different sampling rates (1000Hz and 2000Hz).
+
+[Link](https://biomag2020.org/awards/data-analysis-competitions/)

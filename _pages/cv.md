@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[PDF](https://apmellot.github.io/files/CV_Mellot_Apolline_english_version.pdf)
+[PDF](https://apmellot.github.io/files/CV_Mellot_Apolline.pdf)
